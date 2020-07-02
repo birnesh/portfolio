@@ -3160,11 +3160,13 @@ input, select, textarea {
 				padding: 2.25em 1.5em;
 			}
 			#header strong, #header b {
-				color: rgb(73, 71, 71);
+				color: rgb(14, 13, 13);
 			}
-
-				#header h1 {
-					font-size: 1.35em;
+			
+			#header h1 {
+				font-size: 1.35em;
+				color: rgb(80, 78, 78);
+					
 				}
 
 		/* Footer */
